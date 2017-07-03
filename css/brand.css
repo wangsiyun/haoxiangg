@@ -1,0 +1,196 @@
+.connet{
+	width: 100%;
+	min-width: 1000px;
+	height: 2040px;
+	margin: auto;
+	margin-top: 20px;
+}
+.connet_top{
+	width: 1200px;
+	height: 375px;
+	margin: auto;
+}
+.pinpaiguan{
+	width: 1200px;
+	height: 20px;
+}
+.pinpaiguan div{
+	width: 10px;
+	height: 20px;
+	float: left;
+	background: #B70841;
+}
+.pinpaiguan p{
+	font-family: "微软雅黑";
+	font-size: 18px;
+	padding-left: 20px;
+	color: #1A1A1A;
+}
+
+.zj{
+	width: 1200px;
+	height: 340px;
+	margin-top: 10px;
+	box-sizing: border-box;
+	border: 1px solid gainsboro;
+	border-top: none;
+}
+.zjj{
+	width: 1200px;
+	height: 340px;
+	border-top: 2px solid #1A1A1A;
+}
+.left{
+	width: 55px;
+	height: 330px;
+	line-height: 330px;
+	font-size: 90px;
+	float: left;
+	color: #B2B2B2;
+}
+.left:hover{
+	color: #757575;
+}
+
+.pinpai{
+	width: 1090px;
+	height: 330px;
+	margin: auto;
+	float: left;
+	margin-top: 5px;
+}
+
+.pinpai_1 ul{
+	width: 1090px;
+	height: 95px;
+	border-bottom: 1px solid gainsboro;
+	margin: auto;
+	margin-top: 10px;
+}
+.pinpai_1 ul li{
+	width: 175px;
+	height: 85px;
+	float: left;
+	padding-left: 8px;
+}
+.pinpai_1 ul li:nth-child(1){
+	padding-left: 0;
+}
+
+.pinpai_1 ul li a img{
+	width: 175px;
+	height: 60px;
+	box-sizing: border-box;
+	border: 1px solid gainsboro;
+}
+.pinpai_1 ul li a img:hover{
+	box-sizing: border-box;
+	border: 1px solid #FA7117;
+}
+.pinpai_1 ul li p{
+	padding-top: 5px;
+}
+.pinpai_1 ul li p a{
+	font-family: "微软雅黑";
+	color: #1A1A1A;
+	font-size: 14px;
+}
+.pinpai_1 ul li p a:hover{
+	color: #E15021;
+}
+.right{
+	width: 55px;
+	height: 330px;
+	line-height: 330px;
+	font-size: 90px;
+	color: #B2B2B2;
+	float: right;
+}
+.right:hover{
+	color: #757575;
+}
+
+.connet_2{
+	width: 1200px;
+	height: 30px;
+	margin: auto;
+	margin-top: 10px;
+	border-bottom: 2px solid #1A1A1A;
+}
+.connet_2 div{
+	width: 10px;
+	height: 20px;
+	float: left;
+	background: #B70841;
+}
+.connet_2 p{
+	font-family: "微软雅黑";
+	font-size: 18px;
+	padding-left: 20px;
+	color: #1A1A1A;
+}
+.connet_bottom{
+	width: 1200px;
+	height: 1420px;
+	margin: auto;
+}
+.connet_bottom div{
+	width: 1200px;
+	height: 335px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.connet_bottom ul{
+	width: 1200px;
+	height: 335px;
+}
+.connet_bottom ul li{
+	width: 560px;
+	height: 335px;
+	float: left;
+	margin-right: 38px;
+	position: relative;
+	border: 1px solid gainsboro;
+}
+
+.connet_bottom ul li a:nth-child(2){
+	color: #1A1A1A;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	margin-left: 10px;
+	
+}
+.connet_bottom ul li a:nth-child(2):hover{
+	color: #E15021;
+}
+.connet_bottom ul li>div{
+	width: 540px;
+	height: 275px;
+	margin: 10px;
+}
+.connet_bottom ul li>div img{
+	width: 540px;
+	height: 275px;
+}
+.connet_bottom ul li .xk{
+	width: 122px;
+	height: 32px;
+	line-height: 32px;
+	background: #1A1A1A;
+	float: right;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	text-align: center;
+	font-family: "微软雅黑";
+	color: white;
+	font-size: 14px;
+}
+
+
+
+
+
+
+
+

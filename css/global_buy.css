@@ -1,0 +1,138 @@
+.connet{
+	width: 100%;
+	min-width: 1000px;
+	height: 2700px;
+}
+.banner{
+	width: 100%;
+	min-width: 1200px;
+	height: 400px;
+	margin: auto;
+	background: url(../img/world.jpg) no-repeat;
+}
+
+.connet_1{
+	width: 1200px;
+	height: 290px;
+	margin: auto;
+	margin-top: 95px;
+}
+.connet_1 li{
+	width: 290px;
+	height: 290px;
+	float: left;
+	margin-left: 13px;
+	box-sizing: border-box;
+	border: 1px solid gainsboro;
+}
+.connet_1 li:nth-child(1){
+	margin-left: 0;
+}
+.connet_2{
+	width: 1200px;
+	height: 45px;
+	margin: auto;
+	margin-top: 20px;
+}
+.connet_2 ul{
+	width: 1200px;
+	height: 45px;
+}
+.connet_2 ul li{
+	float: left;
+	width: 198px;
+	height: 45px;
+	line-height: 45px;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid gainsboro;
+}
+.connet_2 ul li:hover{
+	color: #ED145B;
+	background: #EEEEEE;
+}
+hr{
+	width: 100%;
+	min-width: 1000px;
+	height: 3px;
+	border: 1px solid #ED145B;
+	margin-top: 2px;
+}
+.connet_3{
+	width: 1200px;
+	height: 1000px;
+	margin: auto;
+	margin-top: 20px;
+}
+.connet_3 ul{
+	width: 1200px;
+	height: 330px;
+	
+}
+.connet_3 ul li{
+	width: 290px;
+	height: 330px;
+	float: left;
+	margin: 5px;
+	box-sizing: border-box;
+	border: 1px solid gainsboro;
+}
+.connet_3 ul li img{
+	height: 220px;
+	width: 288px;
+}
+.connet_3 ul li:hover{
+	box-sizing: border-box;
+	border: 1px solid #ED145B;
+}
+.connet_3 ul li .ddd{
+	width: 278px;
+	height: 105px;
+	margin-left: 10px;
+}
+.connet_3 ul li .ddd p{
+	color: #B70841;
+	font-family: "微软雅黑";
+	font-size: 18px;
+}
+.connet_3 ul li .ddd p span{
+	font-size: 12px;
+}
+.connet_3 ul li .ddd a{
+	font-family: "微软雅黑";
+	color: #1A1A1A;
+	font-size: 15px;
+}
+.connet_3 ul li .ddd a:hover{
+	color: #E15021;
+}
+.xxx{
+	width: 61px;
+    height: 23px;
+	background: url(../imgs/2017-04-25_194243.jpg);
+}
+.xxx_1{
+	width: 165px;
+	height: 23px;
+	float: left;
+	margin-top: -22px;
+	margin-left: 80px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #B70841;
+	text-align: center;
+	box-sizing: border-box;
+	border: 1px solid gainsboro;
+	border-radius: 5%;
+}
+
+
+
+
+
+
+
+
+
+

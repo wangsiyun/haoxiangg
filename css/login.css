@@ -1,0 +1,362 @@
+html,body,div,p,ul,li,h1,h2,h3,h4,h5,h6,hr,ol{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none ;
+	color: black;
+}
+/*顶*/
+.top{
+	width: 100%;
+	min-width: 1190px;
+	height: 136px;
+	border-bottom: 2px solid #2F2F2F;
+}
+.top_1{
+	width: 996px;
+	height: 136px;
+	margin: auto;
+}
+.top_1>img{
+	width: 204px;
+	height: 82px;
+	float: left;
+	margin:28px 28px 0 0;
+}
+.top_1>p{
+	float: left;
+    height: 34px;
+    line-height: 34px;
+    font-size: 18px;
+    color: #000000;
+    margin-top: 53px;
+}
+
+/*banner  部分*/
+.banner_box{
+	width: 100%;
+	min-width: 1190px;
+	height: 563px;
+}
+.banner{
+	width: 996px;
+	height: 563px;
+	margin: auto;
+}
+.banner_left{
+	width: 560px;
+	height: 500px;
+	float: left;
+	margin-top: 19px;
+	background: url(../img/1475141593581531.jpg)no-repeat;
+}
+.banner_right{
+	width: 417px;
+	height: 544px;
+	float: right;
+	margin-top: 19px;
+}
+.banner_right_top{
+	width: 415px;
+	height: 449px;
+	border: 1px solid #E5E5E5;
+}
+.top_wen{
+	width: 415px;
+	height: 58px;
+	border-bottom: 2px solid #FD632C;
+}
+.top_wen>h2{
+	width: 415px;
+	height: 58px;
+	line-height: 58px;
+	text-align: center;
+	color: #FD632C;
+}
+.top_kuang{
+	width: 415px;
+	height: 389px;
+}
+.tishi{
+	width: 337px;
+	height: 18px;
+}
+.tishi>b{
+	width: 24px;
+    height: 18px;
+    float: left;
+    margin-left:20px;
+    margin-top: 15px;
+	background: url(../img/login_icons.png) no-repeat;
+}
+.tishi>span{
+	width: 270px;
+    height: 18px;
+    font-size: 15px;
+    display: inline-block;
+    margin-top: 17px;
+    margin-left: 10px;
+    color: #A2A1A1;
+}
+.user{
+	width: 375px;
+    height: 50px;
+    margin-top: 30px;
+    line-height: 50px;
+    margin-left: 20px;
+    border: 1px solid #DDDDDD;
+    position: relative;
+}
+.user>input{
+	width: 300px;
+	border: none;
+    height: 30px;
+    margin-left: 70px;
+}
+.user>b{
+	position: absolute;
+    width: 22px;
+    height: 25px;
+    background:url(../img/login_icons.png)no-repeat 0 -32px;
+    top: 13px;
+    left: 29px;
+    display: block;
+    z-index: 6;
+}
+.user>i{
+    width: 22px;
+    height: 22px;
+    position: absolute;
+	background: url(../img/login_error.png)no-repeat;
+    right: 15px;
+    margin-top: -35px;
+    margin-right: -8px;
+    cursor: pointer;
+    display: none;
+}
+.X_user{
+	width: 375px;
+    height: 50px;
+    margin-left: 20px;
+    position: relative;
+}
+.X_user_1{
+	width: 375px;
+    height: 50px;
+    font-size: 12px;
+    position: absolute;
+    display: none;
+}
+.X_user_1>span{
+    position: absolute;
+    top: 9px;
+    left: 15px;
+}
+.X_user_1>i{
+	display: block;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 9px;
+    left: 0;
+	background: url(../img/login_icons.png)no-repeat -35px -32px;
+}
+.X_user_2{
+	width: 375px;
+    height: 50px;
+    font-size: 12px;
+    position: relative;
+    display: none;
+}
+.X_user_2>span{
+    position: absolute;
+    top: 9px;
+    left: 15px;
+}
+.X_user_2>i{
+	display: block;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 9px;
+    left: 0;
+	background: url(../img/login_icons.png)no-repeat -35px -56px;
+}
+.pwd{
+	width: 375px;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 20px;
+    border: 1px solid #DDDDDD;
+    position: relative;
+}
+.pwd>input{
+	width: 300px;
+    border: none;
+    height: 30px;
+    margin-left: 70px;
+}
+.pwd>b{
+	position: absolute;
+    width: 22px;
+    height: 29px;
+    background: url(../img/login_icons.png)no-repeat 0 -68px;
+    top: 13px;
+    left: 29px;
+    display: block;
+    z-index: 6;
+}
+.pwd>i{
+    width: 22px;
+    height: 22px;
+    position: absolute;
+	background: url(../img/login_error.png)no-repeat;
+    right: 15px;
+    margin-top: -35px;
+    margin-right: -8px;
+    cursor: pointer;
+    display: none;
+}
+.X_pwd{
+	width: 375px;
+    height: 50px;
+    margin-left: 20px;
+    position: relative;
+}
+.X_pwd_1{
+	width: 375px;
+    height: 50px;
+    font-size: 12px;
+    position: absolute;
+    display: none;
+}
+.X_pwd_1>span{
+    position: absolute;
+    top: 9px;
+    left: 15px;
+}
+.X_pwd_1>i{
+	display: block;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 9px;
+    left: 0;
+	background: url(../img/login_icons.png)no-repeat -35px -32px;
+}
+.X_pwd_2{
+	width: 375px;
+    height: 50px;
+    font-size: 12px;
+    position: relative;
+    display: none;
+}
+.X_pwd_2>span{
+    position: absolute;
+    top: 9px;
+    left: 15px;
+}
+.X_pwd_2>i{
+	display: block;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 9px;
+    left: 0;
+	background: url(../img/login_icons.png)no-repeat -35px -56px;
+}
+.tishi_2{
+	width: 365px;
+    height: 25px;
+    line-height: 25px;
+    margin-left: 30px;
+    position: relative;
+}
+.tishi_2_left{
+	width:90px;
+	height: 25px;
+	float: left;
+	line-height: 25px;
+}
+.tishi_2_left>input{
+	width: 16px;
+    height: 16px;
+    border: none;
+}
+.tishi_2_left>label{
+	font-size: 14px;
+	left: 27px;
+	position: absolute;
+}
+.tishi_2_right{
+	float: right;
+}
+.tishi_2_right>label{
+	font-size: 14px;
+	color: #4E4E4E;
+}
+.tishi_2_right>a{
+	font-size: 14px;
+	color: #1A1A1A;
+}
+.tishi_2_right>a:hover{
+	color: #fa7117;
+}
+.but{
+	width: 375px;
+    height: 50px;
+    margin-top: 45px;
+    margin-left: 20px;
+}
+.but>button{
+	width: 375px;
+    height: 50px;
+    background: #FA7117;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border: none;
+	cursor: pointer;
+}
+.banner_right_bottom{
+	width: 417px;
+	height: 51px;
+	line-height: 51px;
+}
+.tencent>label{
+	width: 105px;
+	height: 18px;
+	font-size: 14px;
+	margin-left: 42px;
+	color: #C6C6C6;
+}
+.tencent>a{
+	font-size: 15px;
+	color: #1A1A1A;
+}
+.shoujilu{
+	float: right;
+	margin-right: 40px;
+}
+.shoujilu>b{
+	width: 15px;
+    height: 20px;
+    float: left;
+    margin-right: 5px;
+    margin-top: 15px;
+	background: url(../img/login_icons.png)no-repeat -35px 0;
+}
+.shoujilu>a{
+	font-size: 14px;
+	color: #1A1A1A;
+}
+.tencent:hover>a{
+	color: #fa7117;
+}
+.shoujilu:hover>a{
+	color: #fa7117;
+}

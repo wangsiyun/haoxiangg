@@ -1,0 +1,61 @@
+.connet{
+	width: 100%;
+	min-width: 1000px;
+	height: 1125px;
+	margin: auto;
+	margin-top: 20px;
+}
+.connet_top{
+	width: 1200px;
+	height: 30px;
+	margin: auto;
+}
+.connet_top div{
+	width: 10px;
+	height: 20px;
+	float: left;
+	background: #B70841;
+}
+.connet_top p{
+	font-family: "微软雅黑";
+	font-size: 18px;
+	padding-left: 20px;
+	color: #1A1A1A;
+}
+.connet_1{
+	width: 1200px;
+	height: 1023px;
+	margin: auto;
+	border-top: 2px solid #1A1A1A;
+}
+.connet_1 div{
+	width: 1200px;
+	height: 337px;
+}
+.connet_1 ul{
+	width: 1200px;
+	height: 337px;
+	margin-top: 20px;
+}
+.connet_1 ul li{
+	width: 563px;
+	height: 337px;
+	float: left;
+	margin-left: 20px;
+	position: relative;
+	border-bottom: 1px dashed gainsboro;
+}
+.connet_1 ul li img{
+	width: 563px;
+	height: 289px;
+}
+.connet_1 ul li a:nth-child(2){
+	color: rgb(26, 26, 26);
+    font-family: 微软雅黑;
+    font-size: 15px;
+    position: absolute;
+    bottom: 10px;
+}
+.connet_1 ul li a:nth-child(2):hover{
+	color: #E15021;
+}
